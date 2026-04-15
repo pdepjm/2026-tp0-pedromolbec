@@ -1,17 +1,17 @@
 # Sobre mí
 
-| Nombre y apellido | Legajo |
+|<h4> Nombre y apellido </h4> | <h4> Legajo </h4> |
 |--------|--------|
-|Pedro Mollura Becerra | 234.049-5 |
+|<h4> Pedro Mollura Becerra </h4> | <h4> 234.049-5 </h4> |
 
 #
 
 hola me presento soy Pedro, tengo 19 años, y me gusta:
 * la **lluvia**
 * los **libros**
-* los gatos
+* los **gatos**
 
-si no estoy probando un `matcha` en alguna cafetería de especialidad, probablemente esté tocando el `piano` en alguna plaza de san Telmo
+si no estoy probando un `matcha` en alguna cafetería de especialidad, probablemente esté tocando el `piano` en alguna plaza de San Telmo
 
 #
 
